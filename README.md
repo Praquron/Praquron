@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Github API</title>
-	</head>
 	<body>
 		<canvas id="canvas"></canvas>
 		<script type='module'>
