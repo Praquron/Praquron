@@ -1,2 +1,1 @@
-<h1>Watch my animation here!</h1>
-<a href="https://github.praquron.repl.co/">Click Me!</a>
+<h1>Watch my animation <a href="https://github.praquron.repl.co/">here</a></h1>
