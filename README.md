@@ -1,6 +1,3 @@
 ```js script
-const canvas = document.createElement('canvas);
-const ctx = canvas.getContext('2d');
-	ctx.font = '400 24px Arial';
-	ctx.fillText("Loading...", 0, 18);
+import "https://github.praquron.repl.co/scripts.js";
 ```
