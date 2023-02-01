@@ -6,8 +6,6 @@
 	<body>
 		<canvas id="canvas"></canvas>
 		<script type='module'>
-			import { Octokit } from "https://cdn.skypack.dev/octokit";
-
 			const canvas = document.getElementById("canvas");
 			const ctx = canvas.getContext('2d');
 			ctx.font = '400 24px Arial';
